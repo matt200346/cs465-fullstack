@@ -1,0 +1,20 @@
+[
+    {
+        "roomtype": "First Class Room",
+        "description": "<p> First class... cras dui sapien, feugiat vitae tristique ut, lobortis tempor orci. Donec pulvinar sagittis metus ut tristique. Pellentes que habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas idios. </p>",
+        "rate": "220 / Day",
+        "image": "first-class.jpg"
+    },
+    {
+        "roomtype": "Deluxe",
+        "description": "<p> Deluxe... sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis. </p>",
+        "rate": "150 / Day",
+        "image": "deluxe.jpg"
+    },
+    {
+        "roomtype": "Suite",
+        "description": "<p> Suite... sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis. </p>",
+        "rate": "180 / Day",
+        "image": "suite.jpg"
+    }
+]
