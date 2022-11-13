@@ -1,18 +1,22 @@
 [
     {
         "title": "-NEW- 2023 Best Beaches Contest Winners",
-        "description": "Nothing to show here"
+        "time": "April 02, 2023",
+        "description": "<p>-Latest- Integer magna leo, posuere et dignissim vitae, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. Nunc nisi mi, elementum sit amet... </p>"
     },
     {
         "title": "-NEW- Top 10 Diving Spot",
-        "description": "Nothing to show here"
+        "time": "May 29, 2023",
+        "description": "<p>-Latest- Maecenas scelerisque odio quis arcu fringilla malesuada. Nulla facilisi. In libero nulla, fermentum ut pretium ac, pharetra et eros... </p>"
     },
     {
         "title": "-NEW- Fishing ban to be implemented this year",
-        "description": "Nothing to show here"
+        "time": "No Time Given",
+        "description": "Nothing to show here (placeholder)"
     },
     {
         "title": "-NEW- Lifeguard saves child from drowning",
-        "description": "Nothing to show here"
+        "time": "No Time Given",
+        "description": "Nothing to show here (placeholder)"
     }
 ]
